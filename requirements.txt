@@ -1,0 +1,5 @@
+# Python version 3.12.3
+
+asgiref==3.8.1
+Django==5.1.6
+sqlparse==0.5.3
