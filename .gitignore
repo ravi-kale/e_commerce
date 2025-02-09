@@ -31,9 +31,6 @@ db.sqlite3-journal
 # Docker
 postgres_data/
 
-# Environment variables
-.env
-
 # IDE
 .idea/
 .vscode/
